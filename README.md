@@ -1,7 +1,7 @@
 # cpp-meson-homebrew-macos-example
 
 Setup:
-```
+```sh
 meson build-clang --cross-file mygcc.txt
 mkdir subprojects
 
